@@ -1,0 +1,15 @@
+{
+  "name": "jstemplater",
+  "version": "1.0.0",
+  "description": "Javascript Templater",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcuwynu23/JSTemplater-NodeJS.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Wayne B. Menorca",
+  "license": "ISC"
+}
