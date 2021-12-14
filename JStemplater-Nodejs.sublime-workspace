@@ -1,0 +1,961 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"submit",
+				"submitBtn\tabc"
+			],
+			[
+				"ready",
+				"readyState\t: DocumentReadyState Document"
+			],
+			[
+				"hight",
+				"height\t.height()"
+			],
+			[
+				"contain",
+				"container\tabc"
+			],
+			[
+				"submi",
+				"submitBtn\tabc"
+			],
+			[
+				"acc",
+				"accountPage\tabc"
+			],
+			[
+				"borderSt",
+				"borderStyle\t = 'inherit' Style CSS"
+			],
+			[
+				"border",
+				"borderWidth\t = 'initial' Style CSS"
+			],
+			[
+				"set",
+				"set_content\tabc"
+			],
+			[
+				"home",
+				"homeLink\tabc"
+			],
+			[
+				"AppC",
+				"AppComponent\tabc"
+			],
+			[
+				"css_",
+				"css_attrib\tabc"
+			],
+			[
+				"scrip",
+				"script_imports\tabc"
+			],
+			[
+				"script",
+				"script_type\tabc"
+			],
+			[
+				"__",
+				"__init__\tabc"
+			],
+			[
+				"bac",
+				"backgroundColor\t = 'transparent' Style CSS"
+			],
+			[
+				"about",
+				"aboutPage\tabc"
+			],
+			[
+				"par",
+				"paragraph"
+			],
+			[
+				"abo",
+				"aboutPage\tabc"
+			],
+			[
+				"quer",
+				"querySelector\t(lib.js)"
+			],
+			[
+				"App",
+				"AppPage\t(account.js)"
+			],
+			[
+				"sta",
+				"static_url_path\tabc"
+			],
+			[
+				"scr",
+				"scriptLib\tabc"
+			],
+			[
+				"scri",
+				"script_name\tabc"
+			],
+			[
+				"Acc",
+				"AccountPage\tabc"
+			],
+			[
+				"subm",
+				"submitBtn\tabc"
+			],
+			[
+				"sub",
+				"submitBtn\tabc"
+			],
+			[
+				"read",
+				"ready\tdocument.ready - $(function(){})"
+			],
+			[
+				"get",
+				"getItems\t( typeNames?: DOMString ): NodeList Document"
+			],
+			[
+				"chil",
+				"children\t: HTMLCollection Element"
+			],
+			[
+				"parentNode",
+				"parentNode\t(): Node TreeWalker"
+			],
+			[
+				"select",
+				"selectedRow\tabc"
+			],
+			[
+				"sele",
+				"selectedRow\tabc"
+			],
+			[
+				"table",
+				"table-1\t(account.js)"
+			],
+			[
+				"clas",
+				"classList\tabc"
+			],
+			[
+				"string",
+				"stringify\t( value: any, replacer?: any, space?: any ): string JSON"
+			],
+			[
+				"json",
+				"json\tabc"
+			],
+			[
+				"data",
+				"dataModel\tabc"
+			],
+			[
+				"JSON",
+				"JSONData\t(app.py)"
+			],
+			[
+				"JSOn",
+				"JSONData\t(account.html)"
+			],
+			[
+				"addRow",
+				"addRowData\tabc"
+			],
+			[
+				"content",
+				"content\tabc"
+			],
+			[
+				"user",
+				"userNameLabel\tabc"
+			],
+			[
+				"passwordl",
+				"passwordLabel\tabc"
+			],
+			[
+				"docune",
+				"document\tabc"
+			],
+			[
+				"ca",
+				"all-petite-caps\tfont-variant-caps"
+			],
+			[
+				"font-var",
+				"font-variant-caps\tproperty"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"font-",
+				"font-variant-caps\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"cont",
+				"constants\t(app.py)"
+			],
+			[
+				"SCRI",
+				"SCRIPT_LIB\t(constants.js)"
+			],
+			[
+				"SCR",
+				"SCRIPT_CHARTJS\t(constants.js)"
+			],
+			[
+				"SCRIP",
+				"SCRIPT_JQUERY\t(constants.js)"
+			],
+			[
+				"jq",
+				"jquery-3.6.0.min.js\t(_script.html)"
+			],
+			[
+				"ACC",
+				"ACCOUNT_SCRIPT\t(constants.js)"
+			],
+			[
+				"ACTIV",
+				"ACTIVITY_SCRIPT\t(constants.js)"
+			],
+			[
+				"ASS",
+				"ASSESSMENT_SCRIPT\t(constants.js)"
+			],
+			[
+				"AT",
+				"ATTENDANCES_SCRIPT\t(constants.js)"
+			],
+			[
+				"QUI",
+				"QUIZ_SCRIPT\t(constants.js)"
+			],
+			[
+				"REP",
+				"REPORTS_SCRIPT\t(constants.js)"
+			],
+			[
+				"TEAC",
+				"TEACH_RESOURCES_SCRIPT\t(constants.js)"
+			],
+			[
+				"SUB",
+				"SUBJECT_INFO_SCRIPT\t(constants.js)"
+			],
+			[
+				"STUDE",
+				"STUDENT_LIST_SCRIPT\t(constants.js)"
+			],
+			[
+				"color",
+				"color2\t(_auth_style.html)"
+			],
+			[
+				"AbOUT",
+				"ABOUT_CONTENT\t(about.html)"
+			],
+			[
+				"a",
+				"author"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"left",
+				"left\tproperty"
+			],
+			[
+				"bck",
+				"background-color\tproperty"
+			],
+			[
+				"conte",
+				"justify-content\tproperty"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"c",
+				"center\talign-content"
+			],
+			[
+				"conten",
+				"align-content\tproperty"
+			],
+			[
+				"inil",
+				"inline-block\tdisplay"
+			],
+			[
+				"WX",
+				"WXPython-setup-Panel\tWXPython-setup-Panel"
+			],
+			[
+				"Wx",
+				"WXPython-setup-MainFrame\tWXPython-setup-MainFrame"
+			],
+			[
+				"_",
+				"__dirname\t(app.js)"
+			],
+			[
+				"print",
+				"printthis\tabc"
+			],
+			[
+				"ref",
+				"refreshPage\tabc"
+			],
+			[
+				"chrtm",
+				"chrtmDate\tabc"
+			],
+			[
+				"chrm",
+				"chrtmDay\tabc"
+			],
+			[
+				"curre",
+				"currentYear\tabc"
+			],
+			[
+				"getda",
+				"getDay\t(): int Date"
+			],
+			[
+				"end",
+				"endYear\tabc"
+			],
+			[
+				"chr",
+				"chrmDate\tabc"
+			],
+			[
+				"subjecD",
+				"subjectDescription\tabc"
+			],
+			[
+				"subjec",
+				"subjectName\tabc"
+			],
+			[
+				"wrap",
+				"word-wrap\tproperty"
+			],
+			[
+				"subjectN",
+				"subjectInformation\t(subjectInfoController.js)"
+			],
+			[
+				"subject",
+				"subjectDescription\tabc"
+			],
+			[
+				"subje",
+				"subjectName\tabc"
+			],
+			[
+				"subjectNma",
+				"subjectNameInput\tabc"
+			],
+			[
+				"createEl",
+				"createElement\t( localName: DOMString ): Element Document"
+			],
+			[
+				"http",
+				"http://test.com"
+			],
+			[
+				"auth",
+				"auth_id\tabc"
+			],
+			[
+				"aut",
+				"auth_id\tabc"
+			],
+			[
+				"j",
+				"jQuery.sub\tjQuery.sub"
+			],
+			[
+				"function",
+				"function-template.gif\t(README.md)"
+			],
+			[
+				"day",
+				"dayMilliseconds"
+			],
+			[
+				"chir",
+				"christmasDay"
+			],
+			[
+				"toda",
+				"todayTime"
+			],
+			[
+				"chri",
+				"christmasDate"
+			],
+			[
+				"curren",
+				"currentYear"
+			],
+			[
+				"month",
+				"getMonth"
+			],
+			[
+				"getMont",
+				"getMonthDays"
+			],
+			[
+				"font",
+				"font-variant-caps\tproperty"
+			],
+			[
+				"FON",
+				"font-variant\tproperty"
+			],
+			[
+				"fom",
+				"animation-fill-mode\tproperty"
+			],
+			[
+				"fon",
+				"font-variant\tproperty"
+			],
+			[
+				"ass",
+				"assessments"
+			],
+			[
+				"quiz",
+				"quizzes"
+			],
+			[
+				"ch",
+				"checkbox"
+			],
+			[
+				"tex",
+				"textContent"
+			],
+			[
+				"DEL",
+				"deleteThisRow"
+			],
+			[
+				"TOB",
+				"toBeModifyRow"
+			],
+			[
+				"TO",
+				"toBeInsertRow"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"mod",
+				"modifyRowID"
+			],
+			[
+				"tr",
+				"tRow"
+			],
+			[
+				"lg",
+				"logger"
+			],
+			[
+				"to",
+				"toBeInsertRow"
+			],
+			[
+				"las",
+				"lastAddRow"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"stud",
+				"studentID"
+			],
+			[
+				"da",
+				"dataRecord"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/HttpUnit/HttpUnit.sublime-build",
+					""
+				],
+				[
+					"Packages/User/cmd.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/HttpUnit/HttpUnit.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/Ant.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"package inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Install Package"
+			],
+			[
+				"Package controll ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: ANDROID_ButtonXML"
+			],
+			[
+				"Snippet:xm",
+				"Snippet: ANDROID_ButtonXML"
+			],
+			[
+				"Snippet: aN",
+				"Snippet: ANDROID_Intent"
+			],
+			[
+				"Package Contr",
+				"Install Package Control"
+			],
+			[
+				"fo",
+				"Formatter: Beautify With HTML Tidy"
+			],
+			[
+				"re",
+				"Preferences: Key Bindings"
+			],
+			[
+				"rein",
+				"Preferences: Key Bindings"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"for",
+				"Formatter: Beautify With HTML Tidy"
+			],
+			[
+				"html",
+				"Snippet: html"
+			],
+			[
+				"",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"syK",
+				"Set Syntax: Kotlin"
+			],
+			[
+				"Snippet: pr",
+				"Snippet: println"
+			],
+			[
+				"ja",
+				"Set Syntax: Java"
+			],
+			[
+				"java",
+				"Project: Save As"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 476.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/admin/Desktop/Dev/Peculiar Repository/JSTemplater-NodeJS"
+	],
+	"file_history":
+	[
+		"/C/Users/admin/Desktop/Dev/Peculiar Repository/JSTemplater-NodeJS/index.js",
+		"/C/Users/admin/Desktop/testTemplate/index.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/src/home.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/css/style.css",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/constant/header.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/app.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/src/account.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/src/about.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/libs/lib-source.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/libs/lib.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/lib.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/constants/constant.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/test.html",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/constants.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/server/init.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/server/model/init.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/server/model/model.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/server/model/model",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/templates/header.html",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/models/dataModel.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/lib.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/account.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/templates/account.html",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/templates/about.html",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/about.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/javascript/name.js",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/templates/features/account.html",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/start.bat",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/templates/base.html",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/models/init.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/templates/style.html",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/database/init.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/routes/init.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/controller/init.py",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static/css/style.cs",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/static",
+		"/C/Users/admin/Desktop/Peculiar/PythonProjects/tryFlask/templates/home.html",
+		"/C/Users/admin/Desktop/Dev/Peculiar Repository/Peculiar Justified Utilities(Just Utility)/.git/config",
+		"/C/Program Files/Git/etc/gitconfig",
+		"/C/Users/admin/.gitconfig",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/course subject management web application/package-lock.json",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/course subject management web application/package.json",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/constants/constants.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/initial/_script.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/scores.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/reports.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/quiz.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/attendances.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/assessment.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/activity.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/account.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/studentList.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/subjectInformation.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/teachingResources.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/_auth_recoveryRequest.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/initial/_style.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/initial/_auth_style.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/initial/_header.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/public/js/my-script/report-script.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/_auth_login.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/quizController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/subjectInfoController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/reportsController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/scoreController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/studentListController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/teachingResourcesController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/aboutController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/activityController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/about.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/accountController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/assessmentController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/controller/attendanceController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/db/dbCommands.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/public/js/my-script/account-script.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/public/js/my-script/assessment-script.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/app.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/public/js/my-script/activity-script.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/package.json",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa11464.15209/README.md",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa11464.16596/package-lock.json",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/README.md",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/_base.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/_auth_register.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/views/_auth_recovery.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/public/js/my-lib/lib.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/db/database.js",
+		"/C/Users/admin/Desktop/script.py",
+		"/C/Users/admin/Desktop/script.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/public/js/my-script/teaching-resource-script.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/public/js/my-script/student-list-script.js",
+		"/C/Users/admin/Desktop/index.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/server/services/dataHandler.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/DocblockrPython.sublime-settings",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/test.req",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/JavaImports/JavaImports.sublime-settings",
+		"/C/Users/admin/AppData/Local/Temp/Rar$DIa8888.38403/README.md",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Installed Packages/Http Requester.sublime-package",
+		"/c/xampp/TEST/test.sql",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template - Copy (2)/auth/authenticationServices.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/auth/authenticationServices.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/package.json",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/SublimePythonIDE/SublimePython.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/public/js/my-script/activity-script.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/server/controller/subjectInfoController.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/views/_error.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/server/controller/errorController.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/README.md",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/All Autocomplete/All Autocomplete.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/All Autocomplete.sublime-settings",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/server/controller/aboutController.js",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Terminal/Default (Windows).sublime-keymap",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/constants/dbConstants.js",
+		"/c/xampp/TEST/query.sql",
+		"/c/xampp/TEST/user_auth_query.sql",
+		"/C/Users/admin/Desktop/easypython/probability.py",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/views/_auth_register.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/views/reports.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/views/_auth_login.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/views/_auth_recovery.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/views/preps/_script.html",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/app.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/public/js/my-script/attendance-script.js",
+		"/C/Users/admin/Desktop/Peculiar/NodeJSProjects/node-web-template/public/js/my-script/quiz-script.js"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 348.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 122.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 469.0
+	},
+	"output.find_results":
+	{
+		"height": 373.0
+	},
+	"output.nodejs":
+	{
+		"height": 270.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 238.0
+	},
+	"pinned_build_system": "",
+	"project": "JStemplater-Nodejs.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"src\\com\\github\\peculiar\\codeGrimoire\\view\\View.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 293.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"contact_view"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 280.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
