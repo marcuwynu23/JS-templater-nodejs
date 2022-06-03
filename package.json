@@ -11,5 +11,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mark Wayne B. Menorca",
-  "license": "ISC"
+  "license": "ISC",
+  "keywords": [
+    "js",
+    "javascript-view-engine",
+    "view-engine",
+    "templater",
+    "nodejs"
+  ]
 }
