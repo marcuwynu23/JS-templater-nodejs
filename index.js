@@ -73,7 +73,6 @@ class JSTemplate{
   }
 
   initials(){
-    // this.jsRoot = `${this.staticRoot}/javascript/src/`;
     this.jsRoot = `${this.staticRoot}js/`;
   }
   render(scriptName,context){
@@ -86,6 +85,5 @@ class JSTemplate{
     return setTemplate(this.staticRoot,div,script);
   }
 }
-
 
 module.exports = JSTemplate; 
