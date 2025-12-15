@@ -18,7 +18,9 @@
     "javascript-view-engine",
     "view-engine",
     "templater",
-    "nodejs"
+    "nodejs",
+    "express",
+    "node.js"
   ],
   "devDependencies": {
     "jest": "^29.7.0"
