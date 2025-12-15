@@ -1,1 +1,2 @@
-JStemplater-Nodejs.sublime-project
+node_modules/
+.secrets
